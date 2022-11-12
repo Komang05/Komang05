@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Komang05
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+
+
+- 👋 Hi, I’m Komang05
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
